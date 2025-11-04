@@ -1,0 +1,11 @@
+{
+  "env": {
+    "COMMENT": "Add your personal environment variables here",
+    "EXAMPLE_API_KEY": "your-api-key-here"
+  },
+  "permissions": {
+    "deny": [
+      "COMMENT": "Add additional permission restrictions here"
+    ]
+  }
+}
