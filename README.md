@@ -2,6 +2,19 @@
 
 A Claude skill that creates, validates, and packages other Claude skills. This meta-skill automates the process of building new skills that extend Claude's capabilities across all platforms (Claude.ai, API, and Claude Code).
 
+---
+
+> [!IMPORTANT]
+> **📦 This repository has been archived and is now read-only.**
+>
+> The skill-creator skill has moved to the [jgardner04/skills](https://github.com/jgardner04/skills) repository.
+>
+> **➡️ Find the latest version here: [skills/skill-creator](https://github.com/jgardner04/skills/tree/main/skills/skill-creator)**
+>
+> Please submit any issues, pull requests, or questions to the new repository.
+
+---
+
 ## What Are Claude Skills?
 
 Claude Skills are modular capabilities that extend Claude's functionality. Each skill packages instructions, metadata, and optional resources (scripts, templates) that Claude uses automatically when relevant. Skills enable:
